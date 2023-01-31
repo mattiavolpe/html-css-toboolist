@@ -15,11 +15,6 @@ section {
   margin-top: 60px;
 }
 
-.section-title {
-  display: inline-block;
-  margin-left: 5px;
-}
-
 /* Utility */
 
 .vcenter {
@@ -52,6 +47,33 @@ section {
 
 .gray-font {
   color: #cecece;
+}
+
+.section-title {
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.section-row {
+  margin: 20px 0;
+}
+
+.symbol {
+  display: inline-block;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+}
+
+.check {
+  color: #64c0a9;
+  border: 1px solid #64c0a9;
+}
+
+.uncheck {
+  color: #ed6258;
+  border: 1px solid #ed6258;
 }
 
 /* Header */
