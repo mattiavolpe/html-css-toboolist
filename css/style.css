@@ -17,11 +17,14 @@ body {
   vertical-align: middle;
 }
 
+.white-bg {
+  background-color: #ffffff;
+}
+
 /* Header */
 
 #site-header {
   padding: 20px 40px;
-  background-color: #ffffff;
 }
 
 #logo {
@@ -31,4 +34,12 @@ body {
 h1 {
   display: inline-block;
   font-size: 3.5rem;
+}
+
+/* Main */
+
+#site-main {
+  width: 70%;
+  margin: 70px auto;
+  border-radius: 10px;
 }
