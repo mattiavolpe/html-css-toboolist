@@ -11,6 +11,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+section {
+  margin-top: 60px;
+}
+
 /* Utility */
 
 .vcenter {
@@ -67,6 +71,7 @@ h1 {
   width: 70%;
   margin: 70px auto;
   border-radius: 10px;
+  padding-bottom: 60px;
 }
 
 #main-nav {
